@@ -1,7 +1,7 @@
 # Accounts-Team
 Hello,
 
-Thank you for choosing McAfee. We have successfully received your payment via Direct Deposit and completed the processing of your order.
+Thank you for choosing McAfee. We have successfully received your payment via Direct Deposit and completed the processing of your purchase.
 
 🧾 Invoice Information
 Invoice Number: HUD474DJD
